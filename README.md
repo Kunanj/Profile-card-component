@@ -31,8 +31,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-rqMOSOI8d)
-- Live Site URL: [Add live site URL here](https://profile-card-component-solution-by-kunanj.netlify.app/)
+- Solution URL: [Solution on frontend mentor](https://www.frontendmentor.io/solutions/profile-card-component-rqMOSOI8d)
+- Live Site URL: [Live Site URL](https://profile-card-component-solution-by-kunanj.netlify.app/)
 
 ### Built with
 
